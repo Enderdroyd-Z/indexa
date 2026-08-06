@@ -25,23 +25,6 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 Você pode [acessar o figma do projeto aqui](https://www.figma.com/file/uXjoavDEvDjyE8LsXgliGx/Indexa-%7C-Angular---Primeiros-Passos?type=design&node-id=241-4472&mode=design&t=wRERwIPB7NC0Xw7z-0).
 
-## 🛠️ Abrir e rodar o projeto
-
-Você vai precisar do NodeJS, versão 18 ou maior.
-
-Após baixar o projeto, você precisa instalar as dependências utilizando o comando:
-
-```bash
-npm install
-```
-
-Depois, para executar o projeto em modo desenvolvimento:
-
-```bash
-ng serve
-```
-
-Depois, acesse [http://localhost:4200/](url) no seu navegador. 
 
 ### Nota Pessoal:
 Este projeto foi desenvolvido como parte do formação Angular: crie aplicações web ágeis da Alura. Através deste projeto, desenvolvi habilidades de frontend usando Angular, TypeScript e CSS, além de aprender sobre componentes, rotas e validações.
